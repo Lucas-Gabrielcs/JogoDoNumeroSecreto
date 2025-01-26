@@ -1,1 +1,4 @@
-Jogo do Numero Secreto! Adivinhe o número e tente acertar!
+<h3>Stack: </h3>
+<p>JavaScript</p>
+<p>HTML</p>
+<p>Css</p>
